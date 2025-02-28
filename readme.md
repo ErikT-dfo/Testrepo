@@ -37,8 +37,7 @@ dokumentasjon kan finnes.
 
 ![Et bilde som inneholder tekst, programvare, skjermbilde Automatisk
 generert
-beskrivelse](images/image1.png){width="6.3in"
-height="1.2833333333333334in"}
+beskrivelse](images/image1.png)
 
 # Fellesområdet
 
@@ -52,16 +51,14 @@ Her ligger:
 
 ![Et bilde som inneholder tekst, Font, skjermbilde, line Automatisk
 generert
-beskrivelse](images/image2.png){width="3.3665912073490816in"
-height="1.0991896325459318in"}
+beskrivelse](images/image2.png)
 
 -   Hvis et testcase feiler, legges det bilder inn i mappen
     «exceptionScreenshot».
 
 ![Et bilde som inneholder tekst, skjermbilde, Font, line Automatisk
 generert
-beskrivelse](images/image3.png){width="3.4892760279965005in"
-height="0.8050109361329834in"}
+beskrivelse](images/image3.png)
 
 # Sharepoint
 
@@ -74,8 +71,7 @@ Viktige dokumenter her i sharepoint:
     «Kopi av Testcase»
 
 ![Et bilde som inneholder tekst, Font, nummer, line Automatisk generert
-beskrivelse](images/image4.png){width="3.024663167104112in"
-height="0.6801487314085739in"}
+beskrivelse](images/image4.png)
 
 Inne i mappen documentation ligger det forskjellig dokumentasjon som er
 viktig for REISE og for RPA utvikler.
@@ -92,8 +88,7 @@ viktig for REISE og for RPA utvikler.
 
 ![Et bilde som inneholder tekst, nummer, programvare, Font Automatisk
 generert
-beskrivelse](images/image5.png){width="6.3in"
-height="2.3465277777777778in"}
+beskrivelse](images/image5.png)
 
 # Prosess: DFO_Supportpakke_Delete_Travel_Testing
 
@@ -113,8 +108,7 @@ osv) som benyttes i DFO_Suppportpakke.
 
 ![Et bilde som inneholder tekst, skjermbilde, programvare,
 Multimedieprogramvare Automatisk generert
-beskrivelse](images/image6.png){width="1.6875in"
-height="1.2965277777777777in"}Hvis en aktivitet må oppdateres i
+beskrivelse](images/image6.png)Hvis en aktivitet må oppdateres i
 DFO_Supportpakke, så kan det enten gjøres i prosessen
 TemplatesAutomatedTesting, eller direkte inn i prosessen. Anbefales at
 dette gjøres i templates.
@@ -124,8 +118,7 @@ Eventuelt lag nye aktiviteter ved å velge «Capture Elements».
 
 ![Et bilde som inneholder tekst, skjermbilde, programvare,
 Multimedieprogramvare Automatisk generert
-beskrivelse](images/image7.png){width="3.6173425196850393in"
-height="3.813520341207349in"}
+beskrivelse](images/image7.png)
 
 Publiser prosessen til orchestrator, så sjekk inn til TFS. Gå på manage
 packages i DFO_Supportpakke, og last ned nyeste pakke av
